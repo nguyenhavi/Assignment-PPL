@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(n, FloatType, FloatLit(12340000.0)), CallStmt(printFloat, Id(n))]))
+])

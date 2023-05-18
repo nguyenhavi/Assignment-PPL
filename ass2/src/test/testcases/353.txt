@@ -1,0 +1,7 @@
+main: function void() {
+        num : integer;
+        readInteger(num);
+        if ((num > 10) && (num < 100))
+            printString("\nWhat a True Guess!");
+        else printString("\nOpps!");
+        }

@@ -1,0 +1,6 @@
+main: function void() {
+            a,b: integer = 10,20 ;
+            tam: integer = a;
+            a = b; 
+            b = tam;
+            }

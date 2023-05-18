@@ -1,0 +1,1 @@
+main: function void() {printInteger(2+5*6-10);}

@@ -1,0 +1,3 @@
+test :function integer(inherit n:integer) inherit test1 {
+            return 0;
+            }

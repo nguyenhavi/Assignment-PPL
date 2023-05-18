@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(test, IntegerType, [InheritParam(n, IntegerType), OutParam(m, IntegerType)], test1, BlockStmt([AssignStmt(Id(m), IntegerLit(0)), ReturnStmt(IntegerLit(0))]))
+])

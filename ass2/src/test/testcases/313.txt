@@ -1,0 +1,7 @@
+
+            main : function void() {
+                x : boolean = false;
+                while (x == true) {
+                }
+            }
+        

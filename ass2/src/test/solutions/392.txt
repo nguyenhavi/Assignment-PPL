@@ -1,0 +1,5 @@
+Program([
+	VarDecl(n, IntegerType, FuncCall(add, [IntegerLit(4), IntegerLit(5)]))
+	VarDecl(s, StringType, FuncCall(concat, [StringLit(hello), StringLit(world)]))
+	VarDecl(a, BooleanType, FuncCall(find, [Id(s), StringLit(word)]))
+])

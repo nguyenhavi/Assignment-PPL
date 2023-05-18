@@ -1,0 +1,3 @@
+
+        abc: array [2,3] of string = {{"hi", "aaa", "!"}, {"nope", "no", "nah"}};
+        

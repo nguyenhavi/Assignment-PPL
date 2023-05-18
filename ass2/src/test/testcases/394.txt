@@ -1,0 +1,7 @@
+main: function void(){
+        if (me == 5){
+            print("a > 2");
+        }
+        else{
+            print("a <= 2");
+        }}

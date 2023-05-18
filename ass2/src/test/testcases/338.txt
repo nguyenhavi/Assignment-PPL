@@ -1,0 +1,2 @@
+delta: integer = fact(3);
+        a: integer = 5;

@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(recPlus, VoidType, [Param(n, IntegerType), Param(a, FloatType)], None, BlockStmt([IfStmt(BinExpr(||, BinExpr(==, Id(n), IntegerLit(1)), BinExpr(==, Id(a), FloatLit(5.0))), ReturnStmt(), ReturnStmt(FuncCall(recurPlus, [BinExpr(+, Id(n), IntegerLit(1)), BinExpr(+, Id(a), IntegerLit(2))])))]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([CallStmt(recPlus, IntegerLit(2), FloatLit(4.2))]))
+])

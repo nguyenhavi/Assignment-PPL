@@ -1,0 +1,8 @@
+recPlus : function void (n : integer, a: float ) {
+            if ((n == 1) || (a == 5.0)) return;
+            else return recurPlus(n + 1, a + 2);
+        }
+        main: function void(){
+            recPlus(2,4.2);
+        }
+        

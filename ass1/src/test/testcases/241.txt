@@ -1,0 +1,7 @@
+main: function void(){
+            name: string;
+            printString("What is your name?");
+            readString(name);
+            printStringn("My name is "::name);
+        }
+        

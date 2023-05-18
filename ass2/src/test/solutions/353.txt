@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(num, IntegerType), CallStmt(readInteger, Id(num)), IfStmt(BinExpr(&&, BinExpr(>, Id(num), IntegerLit(10)), BinExpr(<, Id(num), IntegerLit(100))), CallStmt(printString, StringLit(\nWhat a True Guess!)), CallStmt(printString, StringLit(\nOpps!)))]))
+])

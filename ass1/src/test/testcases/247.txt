@@ -1,0 +1,4 @@
+main: function integer(){
+        foo1(2 + x + z, 4.0 / y * w); 
+        goo1();
+        }

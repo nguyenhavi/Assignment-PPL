@@ -1,0 +1,6 @@
+
+            main : function void() {
+                x : auto = 8;
+                printInt(x);
+            }
+        

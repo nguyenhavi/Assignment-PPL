@@ -1,0 +1,7 @@
+
+        main : function void(a: float) {
+                a = 1.2;
+                a = a - 1.7;
+                printFloat(x + 2.5);
+            }
+        

@@ -1,0 +1,9 @@
+
+        x,y: integer = 2 , 3;
+        main: function void () {
+            while (x + y == 5) {
+                x = 2+y;
+            }
+            printInt(x);
+        }
+        

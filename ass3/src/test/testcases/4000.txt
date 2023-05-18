@@ -1,0 +1,8 @@
+
+ nothing: function void() {}
+ ok: function void(a: integer, b: integer) inherit nothing {
+	aa: array[3,2] of integer = {{1,2},{3},{2}};
+ }
+ main: function void () {
+ }
+            

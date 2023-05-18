@@ -1,0 +1,3 @@
+a: integer = 10;
+        b, c: boolean = true, false;
+        x, y: float = 3.4, 2.6e2;

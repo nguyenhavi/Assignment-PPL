@@ -1,0 +1,6 @@
+
+            main: function void () {
+                n: float = 123.4e5;
+                printFloat(n);
+            }
+        

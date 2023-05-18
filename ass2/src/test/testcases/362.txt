@@ -1,0 +1,4 @@
+test :function integer(inherit n:integer, out m: integer) inherit test1 {
+            m = 0;
+            return 0;
+            }

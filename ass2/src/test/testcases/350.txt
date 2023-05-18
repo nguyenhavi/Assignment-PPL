@@ -1,0 +1,9 @@
+
+        voidA: function integer(n: integer){
+                return n+4+2;
+            }
+            main: function void () {
+                delta: integer = voidA(voidA(34));
+                printInt(delta);
+            }
+        

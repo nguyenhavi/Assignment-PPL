@@ -1,0 +1,15 @@
+main: function void() {
+            if((a >= b) && (a >= c)) {
+                printString("Largest number: ");
+                printInteger(a); 
+            }
+            if((b >= a) && (b >= c)){
+                printString("Largest number: ");
+                printInteger(b);
+            }
+            if((c >= a) && (c >= b)){
+                printString("Largest number: ");
+                printInteger(c);
+            }
+            return 0;
+            }

@@ -1,0 +1,10 @@
+
+            func1: function integer(n: integer){
+                return n+1;
+            }
+            main: function void () {
+                abc: integer = 3;
+                func1(abc);
+                return abc;
+            }
+        

@@ -1,0 +1,8 @@
+
+        main: function void () {
+                a,c: string = "true","!true";
+                v: string = a::c;
+                printString(a);
+                printString(v);
+            }
+        

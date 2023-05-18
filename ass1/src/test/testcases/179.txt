@@ -1,0 +1,1 @@
+inc: function void (inherit out n: integer, delta: integer)

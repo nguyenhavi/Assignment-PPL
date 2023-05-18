@@ -1,0 +1,14 @@
+fact: function integer (n: integer) {
+            if (n == 0) return 1; 
+            else return n * fact(n - 1);
+        }
+        x: integer = 65;
+        add: function void(out result: integer, a: integer, b: integer) {
+            result = a + b;
+            return;
+        }
+        main: function integer (n: integer) {
+            while (i < 5) 
+            if (n == 0) return 1; 
+            else return n * fact(n - 1);
+        }

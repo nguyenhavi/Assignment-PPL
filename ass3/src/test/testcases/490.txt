@@ -1,0 +1,13 @@
+
+ 		a: float = foo(1, 2) + 1.5;
+ 		foo: function integer(a: integer, b: integer) {
+ 			return a + b; 
+ 		}
+ 		x: function auto() {
+ 			writeFloat(foo(1,2));
+ 		}
+ 		main: function void () inherit x {
+			super();
+ 			printInteger(x());
+ 		} 
+ 		

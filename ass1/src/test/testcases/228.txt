@@ -1,0 +1,11 @@
+
+        main: function integer (n: integer) {
+            for(i = 0, i < 10 , i + 1) {
+                if (n == 0) return 1; 
+                else return n * fact(n - 1);
+            }
+            foo(2+x, 4.0 / y);
+            goo();
+        }
+        x: integer = main(5+6);
+        

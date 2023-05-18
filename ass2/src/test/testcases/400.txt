@@ -1,0 +1,3 @@
+endtest: function void(){
+            printString("Let's end test ASTGensuite. I'm tired");
+        }

@@ -1,0 +1,6 @@
+
+            main: function void () {
+                delta: float = 123.45e6;
+                printFloat(delta);
+            }
+        

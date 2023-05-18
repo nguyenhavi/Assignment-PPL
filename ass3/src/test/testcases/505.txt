@@ -1,0 +1,7 @@
+
+ 		bar: function void () {}
+ 		foo: function auto() inherit bar {
+ 			preventDefault(4);
+ 		}
+ 		main: function void () {} 
+ 		

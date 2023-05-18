@@ -1,0 +1,4 @@
+main: function integer(){
+            if (a >= b) return 5%2;
+            else if (a < b) return (2+3)*7;
+            }

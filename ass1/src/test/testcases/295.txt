@@ -1,0 +1,4 @@
+main: function void() {
+            printBoolean(aaa && bqqq);
+            printBoolean(a12 || blp); 
+            }

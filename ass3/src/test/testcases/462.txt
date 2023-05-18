@@ -1,0 +1,11 @@
+
+ y: function void(inherit b: string, c: string) {
+ }
+ z: function void (c: boolean) inherit y {
+ super("a string", "another string");
+ d: boolean = c;
+ e: auto = b;
+ y(e, e);
+ }
+ main: function void () {}
+ 

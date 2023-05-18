@@ -1,0 +1,10 @@
+main: function void(){
+            do {
+                abc =  ! 12344 * 2345 / 2345 % 4567 - abc;
+                for (abc = 0, abc < 100000, abc*12){
+                    do {
+                        abc = abc1234;
+                    } while(abc < 100000);
+                }
+            } while(1);
+        }

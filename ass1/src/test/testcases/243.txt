@@ -1,0 +1,7 @@
+main: function void(){
+            a,b,c: integer;
+            a = 4;
+            b = 6;
+            c=  7;
+        }
+        

@@ -1,0 +1,7 @@
+
+ 		main: function void () {
+ 			x();
+ 		}
+ 		x: function auto() {}
+ 		x: function auto(a: auto, b: auto) {}
+ 		

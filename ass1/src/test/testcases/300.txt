@@ -1,0 +1,3 @@
+endtest: function void(){
+            printString("ahihi");
+        }

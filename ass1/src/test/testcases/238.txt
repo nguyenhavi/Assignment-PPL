@@ -1,0 +1,5 @@
+main: function void(){
+            a,b,c: integer = 10, 20 ,30;
+            d: integer = a*b+c;
+            printInteger(d);
+        }

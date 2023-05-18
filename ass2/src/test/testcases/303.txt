@@ -1,0 +1,9 @@
+
+            main: function void () {
+                i: integer = 0;
+                while (i<8){
+                    i=i+1;
+                }
+                return i;
+            }
+        

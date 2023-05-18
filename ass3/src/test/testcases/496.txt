@@ -1,0 +1,12 @@
+
+ 		y: function void(inherit c: auto) {}
+ 		x: function void(a: integer) inherit y {
+ 			super(6);
+ 			a = c;
+ 		} 
+ 		z: function void(a: integer) inherit y {
+ 			preventDefault();
+ 			a = c;
+ 		}
+ 		main: function void () {}
+ 		

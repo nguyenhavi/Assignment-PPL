@@ -1,0 +1,4 @@
+main: function integer(){
+        arr: array[3,2] of integer;
+        arr = {{2,3},{5,4},{6,7}};
+        }

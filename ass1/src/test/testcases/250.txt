@@ -1,0 +1,10 @@
+main: function void() {
+        do {
+        if ( (max % n1 == 0) && (max % n2 == 0) )
+            {
+                print("LCM = ");
+                printInteger(max);
+                break;
+            }
+        else max = max +1;
+        } while (true);}

@@ -1,0 +1,6 @@
+main: function void(){
+            myself: boolean;
+            printString("Why are you running?");
+            keeprunning(myself);
+        }
+        

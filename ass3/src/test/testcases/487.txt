@@ -1,0 +1,9 @@
+
+ 		x: function auto(y: auto) {
+ 			y = 4;
+ 			printInteger(y);
+ 		}
+ 		main: function void () {
+ 			printString(x(3)); 
+ 		} 
+ 		

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(endtest, VoidType, [], None, BlockStmt([CallStmt(printString, StringLit(Let's end test ASTGensuite. I'm tired))]))
+])

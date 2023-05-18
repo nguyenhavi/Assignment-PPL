@@ -1,0 +1,6 @@
+
+ 		foo: function void(a: integer){}
+ 		main: function void() {
+ 			foo(1, a); 
+ 		} 
+ 		

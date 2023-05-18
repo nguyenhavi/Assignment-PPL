@@ -1,0 +1,3 @@
+test: function array[2] of string(){
+            return {"hello", "hi"};
+            }

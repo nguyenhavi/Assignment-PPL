@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(x, AutoType, [], None, BlockStmt([WhileStmt(BooleanLit(False), ReturnStmt(BinExpr(+, Id(_1), FuncCall(x, []))))]))
+])

@@ -1,0 +1,9 @@
+
+ x: function void (a: auto, b: auto) {
+ c: integer = a;
+ printBoolean(5 == a);
+ e: string = b;
+ f: string = e :: "Hello";
+ }
+ main: function void () {} 
+ 

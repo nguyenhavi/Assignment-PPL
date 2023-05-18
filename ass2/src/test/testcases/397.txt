@@ -1,0 +1,8 @@
+main: function void(){
+            ___ = 1; 
+            __ = 2;
+            ____ = 4;
+            _ = 3;
+            print("What is the number?");
+            print(___);
+            }

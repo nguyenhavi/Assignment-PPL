@@ -1,0 +1,6 @@
+
+            x : integer ;
+            main : function void() {
+                if(x==96) {y :integer= 69;}
+            }
+        

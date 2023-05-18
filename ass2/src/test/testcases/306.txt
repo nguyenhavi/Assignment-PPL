@@ -1,0 +1,6 @@
+
+            main: function void () {
+                n: integer = 1+3*4-2*3;
+                printInteger(n);
+            }
+        

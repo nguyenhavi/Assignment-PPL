@@ -1,0 +1,6 @@
+main: function void() {
+            a: integer;
+            readInteger(a);
+            if (a%2 ==0) printString("Even");
+            else printString("Odd");
+            }

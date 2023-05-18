@@ -1,0 +1,7 @@
+main: function void() {
+        n1, n2, max: integer;
+        readInteger(n1,n2);
+        if (n1>n2) max = n1;
+        else max = n2;
+        return 0;
+        } 

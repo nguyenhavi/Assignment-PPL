@@ -1,0 +1,5 @@
+main: function string(){
+            for (i = 2, i!=100, i+1)  
+                if ((a+b)>(c+d))  
+                    return "Something\"Just Like This\n"; 
+            }

@@ -1,0 +1,3 @@
+n: integer = add(4,5);
+        s: string = concat("hello", "world");
+        a: boolean = find(s, "word");

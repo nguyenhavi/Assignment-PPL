@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(name, StringType), CallStmt(printString, StringLit(What is your name?)), CallStmt(readString, Id(name)), CallStmt(printStringn, BinExpr(::, StringLit(My name is ), Id(name)))]))
+])

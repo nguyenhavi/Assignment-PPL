@@ -1,0 +1,4 @@
+main: function void() {
+        a:integer;
+        a = -5*10/2 + 10;
+        }

@@ -1,0 +1,4 @@
+main: function void() inherit test {
+            a = super(b,c);
+            printInteger(a);
+            }

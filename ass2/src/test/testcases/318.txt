@@ -1,0 +1,1 @@
+x: function auto(){while(false) return _1 + x();}

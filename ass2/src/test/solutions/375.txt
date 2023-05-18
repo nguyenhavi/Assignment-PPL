@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, IntegerType, [Param(n, IntegerType)], None, BlockStmt([VarDecl(sum, IntegerType, BinExpr(/, BinExpr(*, Id(n), BinExpr(+, Id(n), IntegerLit(1))), IntegerLit(2))), ReturnStmt(Id(sum))]))
+])
